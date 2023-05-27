@@ -1,0 +1,11 @@
+Nomor	Nama_Metal	Simbol	Massa_Atom_Relatif_(u)	Kapasitas_Molar_(J/molK)	Densitas_(g/cm^3)	Konduktivitas_Termal_(W/mK)
+1	    Chromium	Cr	    51.9961	                23.35	                    7.15	            93.9
+2	    Besi	    Fe	    55.845	                25.1	                    7.874	            80.4
+3	    Cobalt	    Co	    58.933194	            24.81	                    8.9	                100
+4	    Tembaga	    Cu	    63.546	                24.44	                    8.96	            401
+5	    Seng	    Zn	    65.38	                25.47	                    7.14	            116
+6	    Zirkonium	Zr	    91.224	                25.36	                    6.52	            22.6
+7	    Molebdenum	Mo	    95.95	                24.06	                    10.28	            138
+8	    Perak	    Ag	    107.8682	            25.35	                    10.49	            429
+9	    Cadmium	    Cd	    112.414	                26.02	                    8.65	            96.6
+10	    Tungsten	W	    183.84	                24.27	                    19.25	            173
